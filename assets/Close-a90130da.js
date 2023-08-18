@@ -1,0 +1,2 @@
+import{d as e,Q as o,R as t,S as l}from"./vue-ed5b065f.js";const n={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink",viewBox:"0 0 512 512"},s=l("path",{d:"M289.94 256l95-95A24 24 0 0 0 351 127l-95 95l-95-95a24 24 0 0 0-34 34l95 95l-95 95a24 24 0 1 0 34 34l95-95l95 95a24 24 0 0 0 34-34z",fill:"currentColor"},null,-1),r=[s],w=e({name:"Close",render:function(c,i){return o(),t("svg",n,r)}});export{w as C};
+//# sourceMappingURL=Close-a90130da.js.map

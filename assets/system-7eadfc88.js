@@ -1,0 +1,2 @@
+import{w as e,A as s}from"./index-0ad4123e.js";function i(){return e.get(s.SystemInfo)}function r(t){return e.get(s.SystemRequestStatistics,{params:{granularity:t}})}function a(t){return e.get(s.SystemAskStatistics,{params:{granularity:t}})}function u(t){return e.post(s.ServerLogs,t)}function o(){return e.get(s.SystemConfig)}function g(t){return e.put(s.SystemConfig,t)}function S(){return e.get(s.SystemCredentials)}function f(t){return e.put(s.SystemCredentials,t)}export{r as a,a as b,u as c,o as d,S as e,f,i as g,g as u};
+//# sourceMappingURL=system-7eadfc88.js.map

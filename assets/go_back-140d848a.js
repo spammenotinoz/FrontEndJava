@@ -1,0 +1,2 @@
+import{Q as o,R as t,S as e}from"./vue-ed5b065f.js";const n={xmlns:"http://www.w3.org/2000/svg",width:"1em",height:"1em",fill:"none",stroke:"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",class:"h-4 w-4 shrink-0",viewBox:"0 0 24 24"},s=e("path",{d:"M9 14 4 9l5-5"},null,-1),r=e("path",{d:"M20 20v-7a4 4 0 0 0-4-4H4"},null,-1),c=[s,r];function l(a,i){return o(),t("svg",n,c)}const h={render:l};export{h as default,l as render};
+//# sourceMappingURL=go_back-140d848a.js.map

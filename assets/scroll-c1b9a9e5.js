@@ -1,0 +1,2 @@
+import{Q as e,R as o,S as t}from"./vue-ed5b065f.js";const r={xmlns:"http://www.w3.org/2000/svg",width:"1em",height:"1em",fill:"none",stroke:"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2",class:"h-4 w-4 shrink-0",viewBox:"0 0 24 24"},s=t("path",{d:"m7 13 5 5 5-5M7 6l5 5 5-5"},null,-1),n=[s];function c(l,i){return e(),o("svg",r,n)}const d={render:c};export{d as default,c as render};
+//# sourceMappingURL=scroll-c1b9a9e5.js.map
